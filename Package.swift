@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Tun2socks",
-            path: "./XCFrameworks/Tun2socks.xcframework"
+            path: "/Users/fast/Desktop/FastSSLibrary/Tun2socks.xcframework"
         ),
     ]
 )
