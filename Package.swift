@@ -1,10 +1,4 @@
-//
-//  Package.swift
-//  Flowing Fast VPN
-//
-//  Created by fast on 9/1/24.
-//
-
+// swift-tools-version:5.3
 import PackageDescription
 
 let package = Package(
